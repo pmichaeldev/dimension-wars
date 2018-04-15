@@ -2,6 +2,10 @@
 
 "Dimension Wars" is a Virtual Reality strategy game developed using the HTC Vive.
 
+## Gameplay Video
+
+* Available on [Google Drive](https://drive.google.com/open?id=17Q5fkT9ia53MvCFZfpucr8uYkJda6OJL)
+
 ## Requirements
 
 * [Unity 5.6.3](https://unity3d.com/)
